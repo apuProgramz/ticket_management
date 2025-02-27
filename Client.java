@@ -1,3 +1,4 @@
+package ticket_management;
 import java.rmi.Naming;
 
 public class Client {

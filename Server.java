@@ -1,3 +1,4 @@
+package ticket_management;
 import java.rmi.Naming;
 import java.rmi.registry.LocateRegistry;
 

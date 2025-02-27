@@ -1,3 +1,4 @@
+package ticket_management;
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 

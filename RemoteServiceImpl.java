@@ -1,3 +1,4 @@
+package ticket_management;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 
